@@ -128,7 +128,7 @@ public class Pet {
 			// print result
 			System.out.println("Record is updated with details:  " + response);
 		} else {
-			System.out.println("Record was not created successfully");
+			System.out.println("Record was not updated successfully");
 		}
 	}
 
